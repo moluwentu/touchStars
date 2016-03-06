@@ -21,7 +21,6 @@
 /* Begin PBXFileReference section */
 		6DC61DA11C8AB46B009B4859 /* 星星点着玩.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "星星点着玩.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DC61DA51C8AB46B009B4859 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6DC61DA71C8AB46B009B4859 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6DC61DA81C8AB46B009B4859 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		6DC61DAA1C8AB46B009B4859 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		6DC61DAB1C8AB46B009B4859 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
@@ -35,6 +34,7 @@
 		6DC61DC11C8AEDF0009B4859 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6DC61DCF1C8C36C0009B4859 /* XTBackGroundVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTBackGroundVC.h; sourceTree = "<group>"; };
 		6DC61DD01C8C36C0009B4859 /* XTBackGroundVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTBackGroundVC.m; sourceTree = "<group>"; };
+		6DC61DD21C8C55D4009B4859 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +67,7 @@
 		6DC61DA31C8AB46B009B4859 /* 星星点着玩 */ = {
 			isa = PBXGroup;
 			children = (
-				6DC61DA71C8AB46B009B4859 /* AppDelegate.h */,
+				6DC61DD21C8C55D4009B4859 /* AppDelegate.h */,
 				6DC61DA81C8AB46B009B4859 /* AppDelegate.m */,
 				6DC61DAA1C8AB46B009B4859 /* ViewController.h */,
 				6DC61DAB1C8AB46B009B4859 /* ViewController.m */,
