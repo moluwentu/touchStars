@@ -79,7 +79,7 @@
         
         [self addSubview:imageView];
         
-        [UIView animateWithDuration:2 animations:^{
+        [UIView animateWithDuration:3 animations:^{
             
             imageView.alpha = 0;
             
